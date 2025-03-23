@@ -1,5 +1,8 @@
 https://ayselaydin.medium.com/android-sqlite-kullan%C4%B1m%C4%B1-1477a89fc0ad 
-https://developer.android.com/identity/sign-in/biometric-auth?hl=tr&utm_source=chatgpt.com
-https://developer.android.com/security/fraud-prevention/authentication?hl=tr&utm_source=chatgpt.com
-https://developer.android.com/security/fraud-prevention/authentication?hl=tr&utm_source=chatgpt.com
-https://www.mobilhanem.com/android-sharedpreferences-kullanimi/?utm_source=chatgpt.com 
+https://developer.android.com/identity/sign-in/biometric-auth?hl=tr
+https://developer.android.com/security/fraud-prevention/authentication?hl=tr
+https://developer.android.com/security/fraud-prevention/authentication?hl=tr
+https://www.mobilhanem.com/android-sharedpreferences-kullanimi
+https://developer.android.com/develop/background-work/background-tasks/persistent/getting-started?hl=tr
+https://developer.android.com/develop/background-work/background-tasks/persistent/getting-started/define-work?hl=tr
+https://medium.com/lcw-digital/android-keystore-i%CC%87le-veri-%C5%9Fifreleme-95b438a80033
